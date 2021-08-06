@@ -2,4 +2,4 @@
 - 👀 I’m interested in: Cloning MineCraft
 - 🌱 I’m currently learning: Lua
 - 💞️ I’m looking to collaborate on: MineClone 2
-- 📫 How to reach me: Emily2255#2255 on Discord
+- 📫 How to reach me: emily2255@protonmail.com
