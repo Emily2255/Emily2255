@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Emily2255
+- 👀 I’m interested in: Cloning MineCraft
+- 🌱 I’m currently learning: Lua
+- 💞️ I’m looking to collaborate on: MineClone 2
+- 📫 How to reach me: Emily2255#2255 on Discord
